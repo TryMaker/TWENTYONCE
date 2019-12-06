@@ -1,0 +1,22 @@
+#mypage {
+	position:relative;
+/* 	text-align: center; */
+	margin: 80px auto ; 
+}
+
+.tbl_myPage{
+	margin: 10px auto;
+	width: 800px;
+	border-collapse: collapse;
+}
+
+.tbl_myPage tr{
+	
+	
+}
+
+caption {
+	caption-side: bottom;
+	margin-top: 20px;
+	text-align: left;
+}

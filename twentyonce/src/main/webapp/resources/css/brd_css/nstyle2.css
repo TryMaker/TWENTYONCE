@@ -1,0 +1,26 @@
+#board_twidth {
+	border-collapse: collapse;
+	width: 980px;
+	border:1px solid #ddd;
+	margin:auto;
+}
+#board_twidth th{
+	background-color: #ddd;
+}
+#board_twidth th,td{
+	padding: 5px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+.left{
+	background-color: #eee;
+}
+#board_twidth tr:hover {
+	background-color: #f5f5f5;
+}	
+#board_search, #board_paging{
+text-align: center;
+}
+#board_link{
+	text-align: left;
+}
